@@ -1,0 +1,8 @@
+Debug/
+Release/
+*.bak
+*.log
+*.swp
+*.user
+*.xml
+*.cache
